@@ -31,9 +31,9 @@ social:
 
 urls:
     - text: Books
-      url: ""
+      url: "/books"
     - text: About Me
-      url: "https://ben7z.github.io/about/"
+      url: "/about"
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
