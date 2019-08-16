@@ -1,0 +1,39 @@
+# Site Settings
+title: 一间书屋
+description: 人丑就要多读书
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aben.ml/books" # the base hostname & protocol for your site
+
+avatar_url: /assets/img/avatar.png
+
+# User Settings
+author: 阿Ben同学
+about: 乏善可陈
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 12
+paginate_path: "/page/:num/"
+svg_color: "#ff0a16"
+
+# Plugins
+plugins:
+  - jemoji
+  - jekyll-paginate
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/ben7z"
+    - icon: fa-github
+      link: "https://aben.ml"
+
+urls:
+    - text: Books
+      url: ""
+    - text: About Me
+      url: "https://ben7z.github.io/about/"
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
