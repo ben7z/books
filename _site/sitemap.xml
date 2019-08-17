@@ -45,9 +45,33 @@
             <loc>http://localhost:4000/books/category/%E7%A7%91%E6%8A%80/</loc>
         </url>
     
+        <url>
+            <loc>http://localhost:4000/books/page/2/</loc>
+        </url>
+    
     
         <url>
+            <loc>http://localhost:4000/books/zzhk/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/yyzg/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/yxl/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/xq/</loc>
+        </url>
+  
+        <url>
             <loc>http://localhost:4000/books/st/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/sspgg/</loc>
         </url>
   
         <url>
@@ -55,7 +79,15 @@
         </url>
   
         <url>
+            <loc>http://localhost:4000/books/sdgz/</loc>
+        </url>
+  
+        <url>
             <loc>http://localhost:4000/books/rljs/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/lm/</loc>
         </url>
   
         <url>
@@ -64,6 +96,10 @@
   
         <url>
             <loc>http://localhost:4000/books/jd/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/hxn/</loc>
         </url>
   
         <url>

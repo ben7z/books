@@ -339,7 +339,7 @@ to {
 	line-height:1.625rem
 }
 .box-item .box-body .new-post:after {
-	content:'New post';
+	content:'New Book';
 	text-transform:uppercase;
 	display:inline-block;
 	background:#ff0a16;
