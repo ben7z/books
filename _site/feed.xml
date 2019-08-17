@@ -5,8 +5,8 @@
     <description>人丑就要多读书</description>
     <link>http://localhost:4000/books/</link>
     <atom:link href="http://localhost:4000/books/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Aug 2019 11:46:42 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Aug 2019 11:46:42 +0800</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2019 12:00:24 +0800</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2019 12:00:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -25,6 +25,27 @@
         
         
         <category>科幻</category>
+        
+      </item>
+    
+      <item>
+        <title>思考，快与慢</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/思考，快与慢.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;人类究竟有多理性？——思考，快与慢&lt;/p&gt;
+
+&lt;p&gt;在书中，卡尼曼会带领我们体验一次思维的终极之旅。他认为，我们的大脑有快与慢两种作决定的方式。常用的无意识的“系统1”依赖情感、记忆和经验迅速作出判断，它见闻广博，使我们能够迅速对眼前的情况作出反应。但系统1也很容易上当，它固守“眼见即为事实”的原则，任由损失厌恶和乐观偏见之类的错觉引导我们作出错误的选择。有意识的“系统2”通过调动注意力来分析和解决问题，并作出决定，它比较慢，不容易出错，但它很懒惰，经常走捷径，直接采纳系统1的直觉型判断结果。&lt;/p&gt;
+
+&lt;p&gt;为了使读者真切体会到系统1和系统2这两个主角的特点，卡尼曼介绍了很多经典有趣的行为实验，指出我们在什么情况下可以相信自己的直觉，什么时候不能相信；指导我们如何在商场、职场和个人生活中作出更好的选择，以及如何运用不同技巧来避免那些常常使我们陷入麻烦的思维失误。&lt;/p&gt;
+
+&lt;p&gt;本书将会彻底改变你对思考的看法。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/books/sk/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/sk/</guid>
+        
+        
+        <category>思考</category>
         
       </item>
     
@@ -66,7 +87,7 @@
         <guid isPermaLink="true">http://localhost:4000/books/jzt/</guid>
         
         
-        <category>职场</category>
+        <category>方法</category>
         
       </item>
     
@@ -92,6 +113,21 @@
         
         
         <category>科幻</category>
+        
+      </item>
+    
+      <item>
+        <title>广告人手记</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/广告人手记.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;《广告人手记》是中国大陆广告操作第一本实战书。中央电视台经济部副主任王晓真说：“它是叶茂中先生多年南征北战实践结晶，也是迄今为止，离国内广告与国内企业十分贴近一本实战型广告书，对于具体广告操作具有实际指导作用。”书中记载了行业内最前沿专业理念及他这十年来新实战经验，特别收录了他最近几年为“红金龙”“真功夫”“柒牌”等作营销策划方案，具有很大参考价值。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/books/ggr/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/ggr/</guid>
+        
+        
+        <category>广告</category>
         
       </item>
     

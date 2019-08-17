@@ -6,23 +6,11 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/books/category/css/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/books/category/django/</loc>
-        </url>
-    
-        <url>
             <loc>http://localhost:4000/books/feed.xml</loc>
         </url>
     
         <url>
             <loc>http://localhost:4000/books/</loc>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/books/category/life/</loc>
         </url>
     
         <url>
@@ -42,12 +30,28 @@
         </url>
     
         <url>
+            <loc>http://localhost:4000/books/category/%E5%B9%BF%E5%91%8A/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/books/category/%E6%96%B9%E6%B3%95/</loc>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/books/category/%E7%A7%91%E5%B9%BB/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/books/category/%E7%A7%91%E6%8A%80/</loc>
         </url>
     
     
         <url>
             <loc>http://localhost:4000/books/st/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/sk/</loc>
         </url>
   
         <url>
@@ -60,6 +64,10 @@
   
         <url>
             <loc>http://localhost:4000/books/jd/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/books/ggr/</loc>
         </url>
   
 </urlset>
