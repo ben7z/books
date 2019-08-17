@@ -5,8 +5,8 @@
     <description>人丑就要多读书</description>
     <link>http://localhost:4000/books/</link>
     <atom:link href="http://localhost:4000/books/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Aug 2019 11:07:54 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Aug 2019 11:07:54 +0800</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2019 11:46:42 +0800</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2019 11:46:42 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,6 +22,73 @@
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/books/st/</link>
         <guid isPermaLink="true">http://localhost:4000/books/st/</guid>
+        
+        
+        <category>科幻</category>
+        
+      </item>
+    
+      <item>
+        <title>人类简史</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/人类简史.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？&lt;/p&gt;
+
+&lt;p&gt;从认知革命、农业革命到科学革命，我们真的了解自己吗？我们过得更加快乐吗？我们知道金钱和宗教从何而来，为何产生吗？人类创建的帝国为何一个个衰亡又兴起？为什么地球上几乎每一个社会都有男尊女卑的观念？为何一神教成为最为广泛接受的宗教？科学和资本主义如何成为现代社会最重要的信条？理清影响人类发展的重大脉络，挖掘人类文化、宗教、法律、国家、信贷等产生的根源。这是一部宏大的人类简史，更见微知著、以小写大，让人类重新审视自己。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/books/rljs/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/rljs/</guid>
+        
+        
+        <category>科技</category>
+        
+      </item>
+    
+      <item>
+        <title>金字塔原理</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/金字塔原理.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;金字塔原理：逻辑思维与表达呈现&lt;/p&gt;
+
+&lt;p&gt;金字塔原理是一种重点突出、逻辑清晰、主次分明的逻辑思路、表达方式和规范动作。&lt;/p&gt;
+
+&lt;p&gt;金字塔的基本结构是：中心思想明确，结论先行，以上统下，归类分组，逻辑递进。先重要后次要，先全局后细节，先结论后原因，先结果后过程&lt;/p&gt;
+
+&lt;p&gt;金字塔训练表达者：关注、挖掘受众的意图、需求、利益点、关注点、兴趣点和兴奋点，想清内容说什么、怎么说，掌握表达的标准结构、规范动作&lt;/p&gt;
+
+&lt;p&gt;金字塔帮助达到沟通目的：重点突出，思路清晰，主次分明，让受众有兴趣、能理解、能接受、记得住&lt;/p&gt;
+
+&lt;p&gt;搭建金字塔的具体做法是：自上而下表达，自下而上思考，纵向疑问回答／总结概括，横向归类分组／演绎归纳，序言讲故事，标题提炼思想精华&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/books/jzt/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/jzt/</guid>
+        
+        
+        <category>职场</category>
+        
+      </item>
+    
+      <item>
+        <title>基地</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/基地（七部曲）.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;人类蜗居在银河系的一个小角落——太阳系，在围绕太阳旋转的第三颗行星上，生活了十多万年之久。&lt;/p&gt;
+
+&lt;p&gt;人类在这个小小的行星（他们称之为“地球”）上，建立了两百多个不同的行政区域（他们称之为“国家”），直到地球上诞生了第一个会思考的机器人。&lt;/p&gt;
+
+&lt;p&gt;在机器人的帮助下，人类迅速掌握了改造外星球的技术，开启了恢弘的星际殖民运动；人类在银河系如蝗虫般繁衍扩张，带着他们永不磨灭的愚昧与智慧、贪婪与良知，登上了一个个荒凉的星球，并将银河系卷入漫长的星际战国时代，直至整个银河被统一，一个统治超过2500万个住人行星、疆域横跨十万光年、总计数兆亿人口的庞大帝国崛起——银河帝国。&lt;/p&gt;
+
+&lt;p&gt;一个微妙的转折发生在银河帝国建国后的12020年。哈里·谢顿，这个刚满32岁的年轻数学家，开创了“心理史学”，这门学科能用数学公式准确推演全人类的未来——“预言”从此成为一门可以信任的科学，人类由此可以看见未来。&lt;/p&gt;
+
+&lt;p&gt;谢顿的第一个预言是：虽然毫无征兆，但已存在一万两千年之久的银河帝国即将灭亡。&lt;/p&gt;
+
+&lt;p&gt;一时间，银河震动，帝国飘摇；皇帝、宰相、夺权者、反叛星球，各方势力立刻剑拔弩张，人类银河时代最伟大的传奇就此开启……&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/books/jd/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/jd/</guid>
         
         
         <category>科幻</category>
