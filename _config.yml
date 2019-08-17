@@ -4,7 +4,7 @@ description: 人丑就要多读书
 baseurl: "/books" # the subpath of your site, e.g. /blog
 url: "https://aben.ml" # the base hostname & protocol for your site
 
-avatar_url: http://ben7z.github.io/books/assets/img/avatar.png
+avatar_url: http://aben.ml/books/assets/img/avatar.png
 
 # User Settings
 author: 阿Ben同学
@@ -14,7 +14,7 @@ about: 乏善可陈
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 12
+paginate: 10
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 

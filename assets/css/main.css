@@ -205,14 +205,8 @@ to {
 	display:table;
 	clear:both
 }
-.flex-grid {
-	display:-webkit-box;
-	display:-ms-flexbox;
-	display:flex;
-	-ms-flex-flow:row wrap;
-	-webkit-box-orient:horizontal;
-	-webkit-box-direction:normal;
-	flex-flow:row wrap
+#grid {
+	padding:0;
 }
 .title-category {
 	width:auto;
@@ -245,37 +239,7 @@ to {
 	position:relative;
 	z-index:1;
 }
-@media only screen and (min-width:37.5rem) {
-	.box-item {
-	margin:0 .938rem 1.875rem
-}
-}@media only screen and (min-width:620px) {
-	.box-item {
-	max-width:calc(100%/3 - 30px)
-}
-}@media only screen and (min-width:920px) {
-	.box-item {
-	max-width:calc(100%/4 - 30px)
-}
-}@media only screen and (min-width:1220px) {
-	.box-item {
-	max-width:calc(100%/5 - 30px)
-}
-}@media only screen and (min-width:1520px) {
-	.box-item {
-	max-width:calc(100%/6 - 30px)
-}
-}@media only screen and (min-width:1820px) {
-	.box-item {
-	max-width:calc(100%/7 - 30px)
-}
-}@media only screen and (min-width:1820px) {
-	.box-item {
-	-ms-flex:1 0 calc(100%/7 - 30px);
-	-webkit-box-flex:1;
-	flex:1 0 calc(100%/7 - 30px)
-}
-}.box-item:hover {
+.box-item:hover {
 	z-index:2;
 	-webkit-transform:scale(1.1);
 	transform:scale(1);
@@ -326,7 +290,7 @@ to {
 }
 .box-item .box-body h2 {
 	margin:0;
-	font-size:1.5rem;
+	font-size:1.3rem;
 	font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
 	font-weight:normal;
 	font-style:normal;
@@ -352,7 +316,9 @@ to {
 	margin-top:-2.187rem
 }
 .box-item .box-body .cover {
-	position:relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 150%;
 }
 .box-item .box-info {
 	padding:.938rem 0

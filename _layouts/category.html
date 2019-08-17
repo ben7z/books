@@ -8,10 +8,10 @@ layout: main
 <hr>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <div id="grid" class="row flex-grid">
+    <div id="grid" class="container-fluid">
     {% for post in site.posts %}
         {% if post.category == page.category %}
-            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+            <article class="box-item col-xs-6 col-sm-6 col-md-3 col-lg-2">
                 <div class="box-body">
                     {% if post.image %}
                         <div class="cover">
