@@ -5,9 +5,25 @@
     <description>人丑就要多读书</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Aug 2019 21:23:54 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 21:23:54 +0800</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2019 21:47:24 +0800</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 21:47:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>当下的力量</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/當下的力量.pdf&quot;&gt;下载阅读（繁体版）&lt;/a&gt;
+&lt;a href=&quot;../assets/books/当下的力量.azw&quot;&gt;下载阅读（简体版）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这本书对于你来说是一个发现之旅，在作者这位心灵导师的引导下，你会惊讶地发现，自己一直都处在大脑或思维的控制之下，生活在对时间的永恒焦虑中，从而阻碍你摆脱内心的痛苦。但实际上，我们只能活在当下，活在此时此刻，所有的一切都是在当下发生的，而过去和未来只是一个单纯的时间概念。通过向当下的臣服，你才能找到真正的力量，找到获得平和与宁静的入口。在那里，我们能找到真正的欢乐，我们能拥抱真正的自我。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/dxdll/</link>
+        <guid isPermaLink="true">http://localhost:4000/dxdll/</guid>
+        
+        
+        <category>方法</category>
+        
+      </item>
     
       <item>
         <title>增长黑客</title>
