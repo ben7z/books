@@ -343,7 +343,7 @@ to {
 }
 .pagination a.next,.pagination a.previous {
 	width:20px;
-	height:30px;
+	height:28px;
 }
 .pagination a:hover {
 	text-decoration:none
@@ -359,7 +359,7 @@ to {
 
 body {
   font-family:Helvetica Neue,Arial,Hiragino Sans GB,WenQuanYi Micro Hei,Microsoft YaHei,sans-serif;
-  background: url("http://ben7z.githubs.io/books/assets/img/subtle_dots.png");
+  background: url("../img/subtle_dots.png");
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;

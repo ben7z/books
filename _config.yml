@@ -1,7 +1,7 @@
 # Site Settings
 title: 一间书屋
 description: 人丑就要多读书
-baseurl: "/books" # the subpath of your site, e.g. /blog
+#baseurl: "/books" # the subpath of your site, e.g. /blog
 url: "https://aben.ml" # the base hostname & protocol for your site
 
 avatar_url: http://aben.ml/books/assets/img/avatar.png
