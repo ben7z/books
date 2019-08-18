@@ -5,8 +5,8 @@
     <description>人丑就要多读书</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Aug 2019 21:47:24 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 21:47:24 +0800</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 00:59:27 +0800</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:59:27 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -19,6 +19,25 @@
         <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/dxdll/</link>
         <guid isPermaLink="true">http://localhost:4000/dxdll/</guid>
+        
+        
+        <category>方法</category>
+        
+      </item>
+    
+      <item>
+        <title>跨越鸿沟</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../assets/books/跨越鸿沟.mobi&quot;&gt;下载阅读&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;高科技市场是世界上最激动人心的市场之一，而对于任何参与到当中的人来说，本书都是一本必读书。&lt;/p&gt;
+
+&lt;p&gt;“鸿沟理论”指的就是高科技产品在市场营销过程中遭遇的最大障碍：高科技企业的早期市场和主流市场之间存在着一条巨大的“鸿沟”，能否顺利跨越鸿沟并进入主流市场，成功赢得实用主义者的支持，就决定了一项高科技产品的成败。实际上每项新技术都会经历鸿沟。关键在予采取适当的策略令高科技企业成功地“跨越鸿沟”，摩尔在这本书中就告诉了人们一些欠经考验的制胜秘诀。&lt;/p&gt;
+
+&lt;p&gt;对于深谙经营之道的公司来说，这本书是他们走向成功的蓝图；对于其他普通的公司来说，这本书是他们安身立命的手册；对于所有的商业人士来说，这本书绝对是值得一读的好书。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/kyhg/</link>
+        <guid isPermaLink="true">http://localhost:4000/kyhg/</guid>
         
         
         <category>方法</category>
