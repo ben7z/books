@@ -305,7 +305,7 @@ to {
 .box-item .box-body .new-post:after {
 	content:'New Book';
 	text-transform:uppercase;
-	display:inline-block;
+	display:none;
 	background:#ff0a16;
 	color:#fff;
 	font-size:.813rem;
@@ -313,7 +313,7 @@ to {
 	line-height:1.5rem;
 	padding:0 .5rem;
 	position:absolute;
-	margin-top:-2.187rem
+	margin-top:-2.187rem;
 }
 .box-item .box-body .cover {
 	width: 100%;
